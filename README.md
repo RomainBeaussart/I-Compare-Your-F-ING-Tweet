@@ -1,4 +1,4 @@
-# icyft
+# I Compare Your F***ING Tweet
 
 ## Project setup
 ```
